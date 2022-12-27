@@ -15,6 +15,10 @@
       {
         "matches": ["https://www2.kobe-u.ac.jp/~tnishida/programming/*"],
         "js": ["content_script2.js"]
+      },
+      {
+        "matches": ["https://beef.center.kobe-u.ac.jp/2022/*"],
+        "js": ["content_script3.js"]
       }
     ]
   }
