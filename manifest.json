@@ -14,7 +14,7 @@
       },
       {
         "matches": ["https://www2.kobe-u.ac.jp/~tnishida/programming/*"],
-        "css": ["content_script2.js"]
+        "js": ["content_script2.js"]
       }
     ]
   }
