@@ -8,10 +8,10 @@ table {
     color: white !important;
 }
 table tr:nth-child(odd) td {  
-    background-color: #EAF6FD;  
+    background-color: black !important;  
   }
 table tr:nth-child(even) td {  
-    background-color: #EFEFEF;  
+    background-color: #444444 !important;  
   }
 body {
     color: white !important;
