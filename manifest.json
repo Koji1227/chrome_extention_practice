@@ -21,7 +21,7 @@
         "js": ["content_script3.js"]
       },
       {
-        "matches": ["https://www.youtube.com/"],
+        "matches": ["https://www.fgh.kobe-u.ac.jp/*"],
         "js": ["content_script4.js"]
       }
     ]
