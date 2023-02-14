@@ -21,7 +21,7 @@
         "js": ["content_script3.js"]
       },
       {
-        "matches": ["https://www2.kobe-u.ac.jp/~tnishida/programming/*"],
+        "matches": ["http://www.iphe.kobe-u.ac.jp/zengaku.htm"],
         "css": ["mystyle2.css"]
       }
     ]
