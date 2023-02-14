@@ -1,3 +1,3 @@
-#page.home{
+#content{
     display: none;
 }
