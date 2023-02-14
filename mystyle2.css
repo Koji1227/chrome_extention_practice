@@ -7,6 +7,12 @@ h2 {
 table {
     color: white !important;
 }
+table tr:nth-child(odd) td {  
+    background-color: #EAF6FD;  
+  }
+table tr:nth-child(even) td {  
+    background-color: #EFEFEF;  
+  }
 body {
     color: white !important;
     background-color: black !important;
