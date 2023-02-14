@@ -1,3 +1,3 @@
-#body.view-content{
+#body{
     display: none;
 }
