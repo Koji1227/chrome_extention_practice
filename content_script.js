@@ -1,3 +1,5 @@
+// 食べログのカレンダーを消す
+
 let calendars = document.querySelectorAll(".list-rst__calendar-frame");
 for(let i = 0; i < calendars.length; i++){
   let e = calendars[i];

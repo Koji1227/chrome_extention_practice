@@ -1,3 +1,5 @@
+// 授業資料の語尾を変更する
+
 function f(n){
     let cs = n.childNodes;
     for(let i = 0; i < cs.length; i++){
