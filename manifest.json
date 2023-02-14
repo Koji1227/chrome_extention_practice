@@ -21,8 +21,8 @@
         "js": ["content_script3.js"]
       },
       {
-        "matches": ["https://www.fgh.kobe-u.ac.jp/*"],
-        "js": ["content_script4.js"]
+        "matches": ["https://www2.kobe-u.ac.jp/~tnishida/programming/*"],
+        "css": ["mystyle2.css"]
       }
     ]
   }
