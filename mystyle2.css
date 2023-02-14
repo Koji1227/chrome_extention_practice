@@ -1,10 +1,10 @@
 h1 {
-    color: red;
+    color: red !important;
 }
 p{
-    color: white;
+    color: white !important;
 }
 
 body{
-    background-color: black;
+    background-color: black !important;
 }
