@@ -1,10 +1,7 @@
 h1 {
     color: red !important;
 }
-p{
-    color: white !important;
-}
-
 body{
+    color: white !important;
     background-color: black !important;
 }
