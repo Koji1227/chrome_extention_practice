@@ -1,6 +1,9 @@
 h1 {
     color: red !important;
 }
+table{
+    color: white !important;
+}
 body{
     color: white !important;
     background-color: black !important;
