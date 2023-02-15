@@ -17,3 +17,6 @@ body {
     color: white !important;
     background-color: black !important;
 }
+.border rounded p-3 m-5 bg-light {
+    color: black !important;
+}
